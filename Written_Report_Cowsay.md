@@ -1,11 +1,6 @@
-# Compte rendu du projet Cowsay
 
-Classe -> Min-int :
 
-- Rosario Dumont 
-- Tess Anderson
-
-## 3. Bash
+## 1. Bash
 
 **cow_kindergarten :**
 
@@ -217,7 +212,7 @@ Nous n'avons pas affiché lors des exécutions toutes les vaches affichées dans
 
 Par ailleurs, nous n'avons pas rencontré de difficulté notable pour cette partie car les scripts n'étaient pas très complexes. Le script qui as nécessité un certain temps de réflexion serait cow_university car, imbriquer une boucle for dans une autre pour détecter les nombres premiers n'était pas forcément évident.
 
-## 4. C
+## 2. C
 
 ### Code :
 
@@ -685,7 +680,7 @@ int main ()
 
 > Cette transition s'est avérée assez difficile car il a fallu utiliser gotoxy encore une fois pour donner un effet de disparition devant la bouche puis apparition dans la bouche tout en implémentant une fonction pour afficher la phrase à -1 lettre sinon il y avait un mauvais décalage.
 
-## 5. Automates
+## 3. Automates
 
 **Introduction :**
 
