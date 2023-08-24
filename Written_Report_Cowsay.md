@@ -1,5 +1,3 @@
-
-
 ## 1. Bash
 
 **cow_kindergarten :**
